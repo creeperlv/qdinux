@@ -1,6 +1,6 @@
 # QDINUX
 
-*Q*uick and *D*irty L*inux* distrubition for only quick boot in QEMU.
+**Q**uick and **D**irty L**inux** distrubition for only quick boot in QEMU.
 
 It is literally a toy distribution.
 
